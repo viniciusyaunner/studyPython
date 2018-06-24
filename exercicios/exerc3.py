@@ -1,0 +1,5 @@
+b1 = int(input("digite a nota do 1º bimeste: "))
+b2 = int(input("digite a nota do 2º bimeste: "))
+b3 = int(input("digite a nota do 3º bimeste: "))
+b4 = int(input("digite a nota do 4º bimeste: "))
+print((b1+b2+b3+b4)/4)
