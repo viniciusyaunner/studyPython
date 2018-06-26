@@ -1,2 +1,2 @@
 # studyPython
-## my particular study about Python/Kivy
+## my particular study about Python
